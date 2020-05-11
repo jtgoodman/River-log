@@ -1,0 +1,12 @@
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\bin\Debug\GoodmanFinalProjectGUI.exe.config
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\bin\Debug\GoodmanFinalProjectGUI.exe
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\bin\Debug\GoodmanFinalProjectGUI.pdb
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\bin\Debug\GoodmanFinalProjectGUI.xml
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\obj\Debug\GoodmanFinalProjectGUI.vbprojAssemblyReference.cache
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\obj\Debug\GoodmanFinalProjectGUI.Form1.resources
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\obj\Debug\GoodmanFinalProjectGUI.Resources.resources
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\obj\Debug\GoodmanFinalProjectGUI.vbproj.GenerateResource.cache
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\obj\Debug\GoodmanFinalProjectGUI.exe
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\obj\Debug\GoodmanFinalProjectGUI.xml
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\obj\Debug\GoodmanFinalProjectGUI.pdb
+C:\Users\jtgoo\source\repos\GoodmanFinalProjectGUI\GoodmanFinalProjectGUI\obj\Debug\GoodmanFinalProjectGUI.Form2.resources
